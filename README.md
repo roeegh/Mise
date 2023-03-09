@@ -8,9 +8,9 @@ Adds a colored shadow to Banners only and Bluetooth device pill
 
 <details><summary>Screenshots</summary>
 
-|                                Light Mode                                |                                Dark Mode                                |
-| :----------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![](</Images/Notification%20Shadow/Notification%20Shadow%20(Light).png>) | ![](</Images/Notification%20Shadow/Notification%20Shadow%20(Dark).png>) |
-|                                                                          |                                                                         |
+|                                    Light Mode                                     |                                    Dark Mode                                     |
+| :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| ![](</Images/Notification%20Shadow/Notification%20Shadow%20Banner%20(Light).png>) | ![](</Images/Notification%20Shadow/Notification%20Shadow%20Banner%20(Dark).png>) |
+|  ![](</Images/Notification%20Shadow/Notification%20Shadow%20Pill%20(Light).png>)  | ![](</Images/Notification%20Shadow/Notification%20Shadow%20Pill%20(Light).png>)  |
 
 </details>
