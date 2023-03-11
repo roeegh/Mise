@@ -7,7 +7,9 @@
 
 ## Prerequisites
 
-1. Create a folder named `roeegh` in the `/var/mobile/Documents/` directory
+1. Install Filza or Santander
+2. Install Cowabunga or FileSwitcherPro
+3. Create a folder named `roeegh` in the `/var/mobile/Documents/` directory
 
 ## How to use
 
