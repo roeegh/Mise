@@ -11,7 +11,7 @@
 
 ## How to use
 
-1. Download and unzip the `.zip` of the wanted customization(s) from the releases
+1. Download and unzip the `.zip` of the wanted customization(s) from the [releases](https://github.com/roeegh/Mise/releases/latest)
 2. Move the file from the `Replacement` folder into the `/var/mobile/Documents/roeegh` folder
 3. Import the `.cowperation` if you are using Cowabunga or `.fsp` if you are using FileSwitcherPro
 
