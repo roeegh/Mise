@@ -7,13 +7,13 @@
 
 ## Disclaimer
 
-All of my customizations are exported from my iPhone 13 Pro Max. I cannot guarantee that all customization will work on your device. Some customizations are iOS-specific, please apply the appropriate ones.
+All of my customizations are exported from my iPhone 13 Pro Max running iOS 16.0. I cannot guarantee that all customization will work on your device. Some customizations are iOS-specific, please apply the appropriate ones.
 
 ## Prerequisites
 
 1. Install Filza or Santander
 2. Install Cowabunga or FileSwitcherPro
-3. Create a folder named `roeegh` in the `/var/mobile/Documents/` directory
+3. Create a folder named `roeegh` in the `/var/mobile/Documents` directory
 
 ## How to use
 
