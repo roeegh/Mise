@@ -5,6 +5,10 @@
   </p>
 </div>
 
+## Disclaimer
+
+All of my customizations are exported from my iPhone 13 Pro Max. I cannot guarantee that all customization will work on your device. Some customizations are iOS-specific, please apply the appropriate ones.
+
 ## Prerequisites
 
 1. Install Filza or Santander
@@ -22,6 +26,12 @@
 ### Notification Shadow
 
 Adds a colored shadow to Banners only and Bluetooth device pill
+
+Original File Paths:
+
+-   Light Mode: `/System/Library/PrivateFrameworks/PlatterKit.framework/platterVibrantShadowLight.visualstyleset`
+
+-   Dark Mode: `/System/Library/PrivateFrameworks/PlatterKit.framework/platterVibrantShadowDark.visualstyleset`
 
 <details><summary>Screenshots</summary>
 
