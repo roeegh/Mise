@@ -1,10 +1,10 @@
 <div align="center">
+  <a href="https://github.com/roeegh/Mise">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  
   <h3 align="center">Mise</h3>
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <p align="center">
     A collection of customizations ready to use with Cowabunga and FileSwitcherPro
   </p>
