@@ -74,6 +74,22 @@ _Notice: This file path is for the <ins>English language only</ins>, please chan
 
 </details>
 
+### Custom CC
+
+Bigger Now Playing module, smaller brightness and volume sliders, and smaller focus module
+
+Original File Paths:
+
+-   English: `/System/Library/PrivateFrameworks/ControlCenterUI.framework/DefaultModuleSettings~iphone.plist`
+
+<details><summary>Screenshots</summary>
+
+|                   Light Mode                   |                   Dark Mode                   |
+| :--------------------------------------------: | :-------------------------------------------: |
+| ![](</Better CC/Images/Custom CC (Light).png>) | ![](</Better CC/Images/Custom CC (Dark).png>) |
+
+</details>
+
 ## Acknowledgments
 
 -   [Logo from @nokoriichimei](https://twitter.com/nokoriichimei/status/1568203679995695106?s=20)
