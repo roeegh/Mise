@@ -49,3 +49,22 @@ Original File Paths:
 |  ![](</Notification Shadow/Images/Notification Shadow Pill (Light).png>)  |  ![](</Notification Shadow/Images/Notification Shadow Pill (Dark).png>)  |
 
 </details>
+
+### Custom Spacebar
+
+Change the text of the spacebar on your keyboard
+
+Original File Paths:
+
+-   English: `/System/Library/TextInput/TextInput_en.bundle/Keyboard-en.plist`
+
+_Notice: This file path is for the <ins>English language only</ins>, please change `TextInput_en.bundle` and `Keyboard-en.plist` with the correct one for your language_
+
+<details><summary>Screenshots</summary>
+
+|                                Light Mode                                |                                Dark Mode                                |
+| :----------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Text%20(Light).png>)  | ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Text%20(Dark).png>)  |
+| ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Emoji%20(Light).png>) | ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Emoji%20(Dark).png>) |
+
+</details>
