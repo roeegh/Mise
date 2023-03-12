@@ -1,5 +1,10 @@
 <div align="center">
   <h3 align="center">Mise</h3>
+  
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
   <p align="center">
     A collection of customizations ready to use with Cowabunga and FileSwitcherPro
   </p>
@@ -68,3 +73,7 @@ _Notice: This file path is for the <ins>English language only</ins>, please chan
 | ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Emoji%20(Light).png>) | ![](</Custom%20Spacebar/Images/Custom%20Spacebar%20Emoji%20(Dark).png>) |
 
 </details>
+
+## Acknowledgments
+
+-   [Logo from @nokoriichimei](https://twitter.com/nokoriichimei/status/1568203679995695106?s=20)
