@@ -80,7 +80,7 @@ Bigger Now Playing module, smaller brightness and volume sliders, and smaller fo
 
 Original File Paths:
 
--   English: `/System/Library/PrivateFrameworks/ControlCenterUI.framework/DefaultModuleSettings~iphone.plist`
+-   `/System/Library/PrivateFrameworks/ControlCenterUI.framework/DefaultModuleSettings~iphone.plist`
 
 <details><summary>Screenshots</summary>
 
